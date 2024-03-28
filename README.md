@@ -1,4 +1,4 @@
-# HCMUT_SSPS: A smart printing service for students at HCMUT
+# HCMUT_SPSS: A smart printing service for students at HCMUT
 
 HCMUT SPSS is a dedicated platform designed to facilitate students at HCMUT in printing documents easily and conveniently. The system allows a student to print a document,choose a printer, and specifying the printing properties such as paper size, pages (of the file) to be printed, one-/double-sided, number of copies and printing requests will be sent to the printing service. Additionally, the Student Printing Service Officer (SPSO) can monitor usage patterns and configure various printing properties using the system.
 # Features
